@@ -1,0 +1,18 @@
+label.error{
+    color: crimson;
+}
+fieldset{
+    width: 210px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: tan;
+}
+legend {
+    background-color: darkgray;
+    border-style: solid;
+    border-width: 2px;
+
+}
+input{
+    width: 190px;
+}
